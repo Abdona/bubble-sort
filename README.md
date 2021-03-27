@@ -19,6 +19,11 @@ To get a local copy up and running:
 
 - GitHub: [@marwen-brini](https://github.com/Marwen-Brini)
 
+👤 **Abdulrahman Naser**
+
+- GitHub: [@Abdulrahman Naser](https://github.com/Abdona)
+- LinkedIn: [@Abdulrahman Naser](https://www.linkedin.com/in/abdulrahman-nasser-2b7173131/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
